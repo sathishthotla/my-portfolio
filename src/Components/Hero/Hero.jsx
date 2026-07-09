@@ -37,7 +37,7 @@ function Hero() {
     <section className="hero">
 
       <h1>
-        Hi, I'm <span>Sathish</span>
+        Hi, I'm <span>Sateesh</span>
         <br />
         Thotla
       </h1>
