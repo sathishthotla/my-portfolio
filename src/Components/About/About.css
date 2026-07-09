@@ -1,0 +1,44 @@
+.about{
+    width:100%;
+    min-height:100vh;
+    background:#10172b;
+    padding:120px 0;
+}
+
+.about h2{
+    text-align:center;
+    font-size:52px;
+    color:#fff;
+    margin-bottom:60px;
+}
+
+.about h2 span{
+    color:#38bdf8;
+}
+
+.about-card{
+    width:75%;
+    margin:auto;
+    background:#17233b;
+    border:1px solid rgba(255,255,255,.08);
+    border-radius:18px;
+    padding:50px;
+    transition:.4s;
+}
+
+.about-card:hover{
+    transform:translateY(-5px);
+    box-shadow:0 15px 35px rgba(0,0,0,.35);
+}
+
+.about-card p{
+    color:#d4d4d4;
+    font-size:28px;
+    line-height:1.9;
+    margin-bottom:35px;
+}
+
+.about-card strong{
+    color:#ffffff;
+    font-weight:700;
+}
