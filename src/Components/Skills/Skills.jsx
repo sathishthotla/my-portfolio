@@ -17,6 +17,19 @@ function Skills() {
 
       <div className="skills-container">
 
+
+<div className="skill-card">
+          <FaServer className="icon" />
+          <h3>Backend Technologies</h3>
+
+          <p>
+            Java (8/11), Spring Boot, Spring MVC, Spring Security,
+            Hibernate, JPA, RESTful APIs, Microservices,Node.js Nest js
+          </p>
+        </div>
+
+
+
         <div className="skill-card">
           <FaReact className="icon" />
           <h3>Frontend Technologies</h3>
@@ -28,16 +41,7 @@ function Skills() {
           </p>
         </div>
 
-        <div className="skill-card">
-          <FaServer className="icon" />
-          <h3>Backend Technologies</h3>
-
-          <p>
-            Node.js, Express.js, NestJS,
-            RESTful API Development,
-            Microservices
-          </p>
-        </div>
+        
 
         <div className="skill-card">
           <FaServer className="icon" />

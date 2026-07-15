@@ -42,10 +42,14 @@ function Hero() {
         Thotla
       </h1>
 
-      <h2>React.js Developer / Full Stack Developer</h2>
+      <h2>4+ years of experience as a Java Full-Stack Developer</h2>
 
       <p>
-        React.js | JavaScript | TypeScript | Node.js | NestJS | MongoDB
+       Java (8/11)| SpringBoot | SpringMVC | Hibernate | JPA | REST API | Microservices | React.js | Node.js| MongoDB | MySQL <br/>
+
+       RESTfulAPIs| JWTAuthentication | OAuth2 |Role-BasedAccessControl |Swagger/OpenAPI <br/>
+        Agile/Scrum | Git | GitHub | CI/CD | Docker | Kubernetes | AWS(EC2,S3, RDS)
+       
       </p>
 
       <a
